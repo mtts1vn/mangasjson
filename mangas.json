@@ -4,6 +4,11 @@
     "sobre": "Nagi Seishiro é um estudante do segundo ano do ensino médio. Ele é um garoto cujo hábito é dizer: 'Que saco', e ele vive sua vida com indiferença. Até que seu parceiro, Mikage Reo, descobre seu talento em 'Blue Lock', um dormitório para treinamento de atacantes que visa vencer a Copa do Mundo em nome do futebol japonês.",
     "responsavel": "Kaneshiro, Muneyuki & Sannomiya, Kouta",
     "totalPaginas": 59,
-    "arquivo": "bluelockepisodenagi"
+    "arquivo": "bluelockepisodenagi",
+    "capa": {
+      "key": "d18xTmVJ",
+      "pagina": 1,
+      "ext": "jpg"
+    }
   }
 ]
