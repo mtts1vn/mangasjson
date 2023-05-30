@@ -1,18 +1,16 @@
-{
-  [
-    {
-      "nome": "BLUE LOCK: EPISODE NAGI",
-      "sobre": "Nagi Seishiro é um estudante do segundo ano do ensino médio. Ele é um garoto cujo hábito é dizer: 'Que saco', e ele vive sua vida com indiferença. Até que seu parceiro, Mikage Reo, descobre seu talento em 'Blue Lock', um dormitório para treinamento de atacantes que visa vencer a Copa do Mundo em nome do futebol japonês.",
-      "responsavel": "Kaneshiro, Muneyuki & Sannomiya, Kouta",
-      "totalPaginas": 59,
-      "arquivo": "bluelockepisodenagi"
-    },
-    {
-      "nome": "SPY X FAMILY Cap.1",
-      "sobre": "O mestre espião de codinome 'Twilight' passou seus dias em missões secretas, tudo pelo sonho de um mundo melhor. Mas um dia, ele recebe uma nova ordem particularmente difícil da central de comando. Para sua missão, ele deve formar uma família temporária e começar uma nova vida!?",
-      "responsavel": "Tatsuya Endo",
-      "totalPaginas": 72,
-      "arquivo": "spyxfamily"
-    }
-  ]
-}
+[
+  {
+    "nome": "BLUE LOCK: EPISODE NAGI",
+    "sobre": "Nagi Seishiro é um estudante do segundo ano do ensino médio. Ele é um garoto cujo hábito é dizer: 'Que saco', e ele vive sua vida com indiferença. Até que seu parceiro, Mikage Reo, descobre seu talento em 'Blue Lock', um dormitório para treinamento de atacantes que visa vencer a Copa do Mundo em nome do futebol japonês.",
+    "responsavel": "Kaneshiro, Muneyuki & Sannomiya, Kouta",
+    "totalPaginas": 59,
+    "arquivo": "bluelockepisodenagi"
+  },
+  {
+    "nome": "SPY X FAMILY Cap.1",
+    "sobre": "O mestre espião de codinome 'Twilight' passou seus dias em missões secretas, tudo pelo sonho de um mundo melhor. Mas um dia, ele recebe uma nova ordem particularmente difícil da central de comando. Para sua missão, ele deve formar uma família temporária e começar uma nova vida!?",
+    "responsavel": "Tatsuya Endo",
+    "totalPaginas": 72,
+    "arquivo": "spyxfamily"
+  }
+]
