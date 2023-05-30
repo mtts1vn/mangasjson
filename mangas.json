@@ -10,5 +10,17 @@
       "pagina": 1,
       "ext": "jpg"
     }
+  },
+   {
+    "nome": "SPY X FAMILY Cap.1",
+    "sobre": "O mestre espião de codinome 'Twilight' passou seus dias em missões secretas, tudo pelo sonho de um mundo melhor. Mas um dia, ele recebe uma nova ordem particularmente difícil da central de comando. Para sua missão, ele deve formar uma família temporária e começar uma nova vida!?",
+    "responsavel": "Tatsuya Endo",
+    "totalPaginas": 72,
+    "arquivo": "spyxfamily",
+    "capa": {
+      "key": "FFWTHg35",
+      "pagina": 1,
+      "ext": "jpg"
+    }
   }
 ]
